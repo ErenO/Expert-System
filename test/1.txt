@@ -1,0 +1,3 @@
+(A ^ B) | D => C
+=ABD
+?C #true
